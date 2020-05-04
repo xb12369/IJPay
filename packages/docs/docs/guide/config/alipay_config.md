@@ -30,7 +30,7 @@
 
 4、如果你是本地调试 `domain 外网访问项目的域名` 可以使用外网端口映射相关的工具来处理
 
-- [10分钟搭建属于自己的ngork服务器，实现内网穿透](https://www.jianshu.com/p/b81bb6a3c0b9)
+- [10分钟搭建属于自己的ngrok服务器，实现内网穿透](https://www.jianshu.com/p/b81bb6a3c0b9)
 - [搭建属于自己的网穿透工具](https://www.jianshu.com/p/c0d7cb4cb00f)
 
 
